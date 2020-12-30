@@ -28,7 +28,7 @@ jQuery(function($){
       infinite: true,
       arrows: true,
       speed: 500,     
-      autoplay: false,
+      autoplay: true,
       fade: true,
       cssEase: 'linear'
     });
