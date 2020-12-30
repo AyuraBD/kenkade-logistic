@@ -163,6 +163,7 @@ body {
   color: #333333;
   font-size: 15px;
   overflow-x: hidden;
+scroll-behavior: smooth;
 }
 
 .no-padding {
